@@ -1,0 +1,7 @@
+.venv
+__pycache__/
+.DS_Store
+*.json
+# Opcional: ignorar o índice faiss se ele for ficar muito grande
+# faiss_index/
+*Zone.Identifier
